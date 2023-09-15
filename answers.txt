@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+    Merge takes the changes from two branchs and combines the changes. Rebase alters when a branch branched off from main. In other words, if a main branch has edits 1, 2, and 3, and you branched off at edit 1, but want to include edit 2, you can rebase.
